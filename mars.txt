@@ -2,3 +2,4 @@ Kalt und trocken, aber alles in meiner Lieblingsfarbe
 Erste neue Zeile
 Die zwei Monde sind vielleicht ein Problem fuer den Wolfman+
 Unterschied zwischen gestaged und nicht gestaged
+Diese andere Zeile wurde in der temporaeren Kopie hinzugefuegt
